@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Styles&amp;Themes</string>
+    <string name="settings_text_select_theme">Select Theme:</string>
+    <string name="settings_text_credentials">Credentials</string>
+    <string name="settings_text_username_hint">username</string>
+    <string name="settings_text_password_hint">password</string>
+    <string name="settings_text_sync_automatically">Sync automatically</string>
+    <string name="settings_text_location">Dark mode</string>
+    <string name="settings_text_state_on">On</string>
+    <string name="settings_text_state_off">Off</string>
+    <string name="settings_text_clear_data">Clear Data</string>
+    <string name="tv_login_title">Login</string>
+
+    <string-array name="theme_array">
+        <item>Light</item>
+        <item>BlueDark</item>
+    </string-array>
 </resources>
