@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    Widgets-->
+    <attr name="pageBackground" format="reference" />
+    <attr name="cardLogin" format="reference" />
+    <attr name="theme_spinner" format="reference" />
+    <attr name="spinnerItem" format="reference" />
+    <attr name="whiteBackground" format="reference" />
+<!--    Texts-->
+    <attr name="inputText" format="reference" />
+    <attr name="textSubheader" format="reference" />
+    <attr name="textLarge" format="reference" />
+    <attr name="textRegular" format="reference" />
+    <attr name="textInputLayout" format="reference" />
+<!--    Buttons-->
+    <attr name="button" format="reference" />
+</resources>
