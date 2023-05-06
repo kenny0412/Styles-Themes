@@ -5,9 +5,9 @@ This app handles the style and themes functionality with a custom theme and also
 
 Ligth Theme:
 
-<img src="https://user-images.githubusercontent.com/31745798/236379530-81af636a-1747-4ef0-9c03-5f9c0cecdd34.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/31745798/236609639-ca98fa26-24f9-4ffc-a290-71f29acfde83.png" width="200" height="400" />
 
 
 Dark Theme:
 
-<img src="https://user-images.githubusercontent.com/31745798/236609382-399237d4-09a5-40cb-8efe-39250c210c63.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/31745798/236609605-371c072c-e3f1-4030-acea-8557e4f0d451.png" width="200" height="400" />
